@@ -1,0 +1,74 @@
+{
+    "foodOptions": {
+        "thai": [
+            "Pochana",
+            "Jumbo Thai Restaurant & Bar",
+            "Doodeeboran"
+        ],
+        "malaysian": [
+            "Roti place",
+            "Mamak",
+            "Pappa Rich"
+        ],
+        "burgers": [
+            "Betty's Burgers",
+            "Beach House",
+            "Mos Burger"
+        ],
+        "pub": [
+            "The Vic"
+        ],
+        "chinese": [
+            "Longtime"
+        ],
+        "other": [
+            "Donna's Delites",
+            "Felix for Goodness"
+        ],
+        "argentine": [
+            "La Boca"
+        ],
+        "italian": [
+            "Stanton",
+            "Corbett & Claude",
+            "Olive & Angelo",
+            "Vapiano",
+            "Scugnizzi"
+        ],
+        "korean": [
+            "Maru"
+        ],
+        "japanese": [
+            "Men Ya Go",
+            "Beppin",
+            "Kabuki 2 Go",
+            "KushiMaru"
+        ],
+        "brazilian": [
+            "O Brasilerio"
+        ]
+   },
+   "drinkOptions": {
+       "bubbletea": [
+            "Gong Cha (Adelaide St)",
+            "Gong Cha (Elizabeth St",
+            "Heertea (Myer Centre)",
+            "Machi Machie Brisbane",
+            "Coco",
+            "Bonsai Botanika",
+            "Sharetea McArthur Central",
+            "Hype Tea"
+       ],
+        "coffee": [
+            "John Mills",
+            "Le Bon Choix",
+            "Anytime",
+            "Coffee Anthology",
+            "Bonsai Botanika",
+            "Noosa Chocolate Factory",
+            "Strauss",
+            "Marchetti Cafe",
+            "Pablo & Rusty's Coffee Roasters"
+        ]
+   }
+}

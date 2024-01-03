@@ -1,0 +1,17 @@
+<html>
+    <body>
+        <h3>BDA Brisbane Food Randomiser</h3>
+        <form method="post" action="/randomiser">
+                <input type="submit" value="Choose" name="Choose"/>
+                <input type="submit" value="Reset" name="Reset" />
+        </form>
+        <p>{{ output }}</p>
+        <form method="post" action="/randomiser">
+                <input type="submit" value="History" name="History"/>
+        </form>
+        {% for question in history %}
+            <p>{{question}}</p>
+        {% endfor %}
+    </body>
+</html>
+
